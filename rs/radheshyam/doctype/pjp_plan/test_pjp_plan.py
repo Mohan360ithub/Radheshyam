@@ -5,5 +5,5 @@
 from frappe.tests.utils import FrappeTestCase
 
 
-class TestRSDeliveryTrip(FrappeTestCase):
+class TestPJPPlan(FrappeTestCase):
 	pass

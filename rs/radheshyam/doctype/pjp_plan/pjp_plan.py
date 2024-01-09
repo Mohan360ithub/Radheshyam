@@ -5,5 +5,5 @@
 from frappe.model.document import Document
 
 
-class RSDeliveryTrip(Document):
+class PJPPlan(Document):
 	pass
